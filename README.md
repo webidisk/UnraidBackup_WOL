@@ -1,6 +1,7 @@
 Wake-on-LAN Template Release: v1.0.0-wol-template
 
-This is a separate template branch for backup servers without BMC/IPMI. It keeps the reporting, no-delete policy, Docker handling, PID-lock fix, critical-share priority, and clean shutdown behavior from the current backup solution.
+This is a separate template branch for backup servers without BMC/IPMI. 
+It keeps the reporting, no-delete policy, Docker handling, PID-lock fix, critical-share priority, and clean shutdown behavior from the current backup solution.
 
 The template uses placeholders instead of your server-specific IPs, MAC addresses, or usernames.
 
